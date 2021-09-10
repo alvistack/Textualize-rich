@@ -1,0 +1,3 @@
+python-rich source: no-debian-changes
+python-rich source: source-contains-prebuilt-windows-binary
+python-rich source: source-package-encodes-python-version
