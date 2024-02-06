@@ -1,0 +1,4 @@
+python3-rich: copyright-without-copyright-notice
+python3-rich: initial-upload-closes-no-bugs
+python3-rich: no-manual-page
+python3-rich: zero-byte-file-in-doc-directory
